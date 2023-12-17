@@ -1,5 +1,8 @@
 # Ecommerce Sales Insights: A Comprehensive Power BI Analysis
 
+## Preview
+[Ecommerce Sales Report Preview](./Anil_Joshi%20Ecommarce_sales%20report_img.jpg)
+
 ## Overview
 This Power BI report offers an in-depth analysis of e-commerce sales, focusing on key metrics like sales volume, profit margins, customer spending patterns, and product popularity.
 
